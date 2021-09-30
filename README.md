@@ -1,1 +1,1 @@
-# index
+# type of text decorations
